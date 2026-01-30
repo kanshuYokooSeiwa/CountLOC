@@ -5,16 +5,16 @@ It loops through the years and months you specify, applies the `git log` logic f
 
 ### How to use it
 
-1. **Save the file**: Create a file named `count_loc.sh` and paste the code above into it.
+1. **Save the file**: Create a file named `countLoc.sh` and paste the code above into it.
 2. **Make it executable**: Run this command in your terminal:
 ```bash
-chmod +x count_loc.sh
+chmod +x countLoc.sh
 ```
 
 
 3. **Run it**: Pass the start year and end year as arguments.
 ```bash
-./count_loc.sh 2024 2025
+./countLoc.sh 2024 2025
 ```
 
 
